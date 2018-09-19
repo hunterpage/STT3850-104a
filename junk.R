@@ -1,4 +1,4 @@
 # Todays date
-# First change#
+# second change#
 
-hist(rnorm(10000),col:= green)
+hist(rnorm(10000), col:= "blue")
